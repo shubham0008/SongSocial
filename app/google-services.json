@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "319749371897",
+    "firebase_url": "https://songsocial-c57b3.firebaseio.com",
+    "project_id": "songsocial-c57b3",
+    "storage_bucket": "songsocial-c57b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319749371897:android:c5c14381ef277e41",
+        "android_client_info": {
+          "package_name": "com.songsocial.songsocial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319749371897-fv3g7b2igfjo4kuke1cs6uno5hl79b3l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.songsocial.songsocial",
+            "certificate_hash": "5c85417844a6a2ca1c3d44b49e32af83a0441d5c"
+          }
+        },
+        {
+          "client_id": "319749371897-1uglifsd5hm6ovubn5koc3aubmo68j38.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUvHDPonLTBbvtEfnsLj3gFBFbzHj_v_I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319749371897-1uglifsd5hm6ovubn5koc3aubmo68j38.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

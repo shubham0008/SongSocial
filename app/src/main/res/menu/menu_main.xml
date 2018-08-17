@@ -4,5 +4,8 @@
     <item android:id="@+id/record"
         android:title="Record Audio"
         app:showAsAction="never"/>
+    <item android:id="@+id/google_login"
+        android:title="Login With Google"
+        app:showAsAction="never"/>
 
 </menu>

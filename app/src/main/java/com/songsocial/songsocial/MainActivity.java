@@ -112,6 +112,10 @@ public class MainActivity extends AppCompatActivity {
             Intent intent=new Intent(MainActivity.this,RecordActivity.class);
             startActivity(intent);
             return true;
+        }else if (id == R.id.google_login) {
+            Intent intent=new Intent(MainActivity.this,LoginActivity.class);
+            startActivity(intent);
+            return true;
         }
 
         return super.onOptionsItemSelected(item);
