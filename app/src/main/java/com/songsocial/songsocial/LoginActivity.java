@@ -54,6 +54,8 @@ public class LoginActivity extends AppCompatActivity {
         }
         Intent signInIntent = Constants.mGoogleSignInClient.getSignInIntent();
         startActivityForResult(signInIntent, Constants.RC_SIGN_IN);
+        
+        //Firebase Login Activity in Song Social
     }
     @Override
     public void onActivityResult(int requestCode, int resultCode, Intent data) {
